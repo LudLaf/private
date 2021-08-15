@@ -4,7 +4,7 @@
     'account',
   ],
   'author': 'Luis Laf',
-  'summary': 'Module for testing Odoo v14',
+  'summary': 'Module for testing Odoo v1',
   'description': """
     This is an extended description for the module that is testing our
     ~~skills~~ developing in Odoo. With this we'll learn:
@@ -15,6 +15,6 @@
   """,
   'license': 'AGPL-3',
   'website': 'https://www.tecnativa.com',
-  'version': '14.0.1.0.0',
+  'version': '1.0.1.0.0',
   'category': 'Tools',
 }
