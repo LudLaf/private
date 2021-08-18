@@ -4,7 +4,7 @@
     'account',
   ],
   'author': 'Luis Laf',
-  'summary': 'Module for testing Odoo v1',
+  'summary': 'Module for testing Odoo',
   'description': """
     This is an extended description for the module that is testing our
     ~~skills~~ developing in Odoo. With this we'll learn:
